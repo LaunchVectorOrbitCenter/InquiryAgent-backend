@@ -78,7 +78,6 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
 .env.development.local
 .env.development.json
 .env.uat.json
@@ -86,10 +85,7 @@ web_modules/
 .env.production.json
 .env.test.local
 .env.production.localF
-.env.local
 .env.json
-.env.staging
-.env.production
 client_secret_467454441566-80bgpvk1iktdbakbjeboaehl0iaajdmn.apps.googleusercontent.com.json
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -173,3 +169,4 @@ apiCollection/
 carriers.json
 carriers.csv
 docs/
+config.bat
