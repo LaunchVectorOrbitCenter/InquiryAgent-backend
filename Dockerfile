@@ -1,6 +1,6 @@
 #*BEFORE CREATING DOCKER IMAGE, execute npm run compile:staging/prod to create a build folder with updated code
 
-FROM fleekbiz.azurecr.io/node:22-slim
+FROM node:22-slim
 
 
 WORKDIR /
